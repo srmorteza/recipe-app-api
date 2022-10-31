@@ -4,3 +4,4 @@ sudo docker-compose run --rm app sh -c "django-admin startproject app ."
 sudo docker-compose run --rm app sh -c "python -m django startprojectapp ."
 
 
+git remote add origin git@github.com:srmorteza/recipe-app-api.git
